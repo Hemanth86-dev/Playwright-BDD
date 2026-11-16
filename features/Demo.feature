@@ -36,7 +36,6 @@ Scenario: Verify the Laptop Availability.
     When User click on "MacBookAir" button
     Then User wait for "5" seconds
     When User click on "Add_to_cart" button
-    #Then User verify that "Dell_i7_8gb" is displayed on the homepage
 
     Examples:
     | username  | password   | Welcome_Username  |
