@@ -1,0 +1,12 @@
+[    4510ms] [LOG] %cDocumentation: %chttps://mswjs.io/docs font-weight:bold font-weight:normal @ https://wishinfinite.com/static/js/main.98d77152.js:2
+[    4510ms] [LOG] Found an issue? https://github.com/mswjs/msw/issues @ https://wishinfinite.com/static/js/main.98d77152.js:2
+[    4510ms] [LOG] Worker script URL: https://wishinfinite.com/mockServiceWorker.js @ https://wishinfinite.com/static/js/main.98d77152.js:2
+[    4510ms] [LOG] Worker scope: https://wishinfinite.com/ @ https://wishinfinite.com/static/js/main.98d77152.js:2
+[    4510ms] [LOG] Client ID: %s (%s) 095abeae-b10e-4511-8769-7865bf95e37c top-level @ https://wishinfinite.com/static/js/main.98d77152.js:2
+[   11510ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://wishinfinite.com/playground:1
+[   13442ms] [LOG] %cDocumentation: %chttps://mswjs.io/docs font-weight:bold font-weight:normal @ https://wishinfinite.com/static/js/main.98d77152.js:2
+[   13442ms] [LOG] Found an issue? https://github.com/mswjs/msw/issues @ https://wishinfinite.com/static/js/main.98d77152.js:2
+[   13442ms] [LOG] Worker script URL: https://wishinfinite.com/mockServiceWorker.js @ https://wishinfinite.com/static/js/main.98d77152.js:2
+[   13443ms] [LOG] Worker scope: https://wishinfinite.com/ @ https://wishinfinite.com/static/js/main.98d77152.js:2
+[   13443ms] [LOG] Client ID: %s (%s) 675e629d-6db7-424a-8568-9694e7198c15 top-level @ https://wishinfinite.com/static/js/main.98d77152.js:2
+[   13591ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://wishinfinite.com/playground:1

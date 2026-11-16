@@ -1,0 +1,12 @@
+{
+  "name": "playwright-bdd-pom-js",
+  "version": "1.0.0",
+  "scripts": {
+    "pw": "node runtests.js"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.8.0",
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.2"
+  }
+}

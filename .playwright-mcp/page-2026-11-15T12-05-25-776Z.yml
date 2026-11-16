@@ -1,0 +1,136 @@
+- generic [ref=f1e3]:
+  - navigation [ref=f1e4]:
+    - generic [ref=f1e5]:
+      - link "WishInfinite" [ref=f1e6] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=f1e7]:
+        - generic [ref=f1e8]:
+          - link "Home" [ref=f1e9] [cursor=pointer]:
+            - /url: /
+          - link "Courses" [ref=f1e10] [cursor=pointer]:
+            - /url: /courses
+          - link "Contact" [ref=f1e11] [cursor=pointer]:
+            - /url: /contact
+          - link "Playground" [ref=f1e12] [cursor=pointer]:
+            - /url: /playground
+        - link [ref=f1e14] [cursor=pointer]:
+          - /url: "#home"
+          - img "My WishInfinite Logo" [ref=f1e15]
+  - main "UI Testing Playground" [ref=f1e17]:
+    - generic [ref=f1e19]:
+      - text: 
+      - generic [ref=f1e20]:
+        - generic [ref=f1e21]:
+          - generic [ref=f1e22]:
+            - heading "UI Testing Components" [level=3] [ref=f1e23]
+            - button "Collapse sidebar" [ref=f1e24] [cursor=pointer]:
+              - generic [ref=f1e25]: 
+          - paragraph [ref=f1e26]: Select a category to begin testing
+        - generic [ref=f1e27]:
+          - button " Forms" [ref=f1e28] [cursor=pointer]:
+            - generic [ref=f1e29]: 
+            - text: Forms
+          - button " Selectors" [ref=f1e30] [cursor=pointer]:
+            - generic [ref=f1e31]: 
+            - text: Selectors
+          - button " Interactive Controls" [ref=f1e32] [cursor=pointer]:
+            - generic [ref=f1e33]: 
+            - text: Interactive Controls
+          - button " Mouse Events" [ref=f1e34] [cursor=pointer]:
+            - generic [ref=f1e35]: 
+            - text: Mouse Events
+          - button " File Handling" [ref=f1e36] [cursor=pointer]:
+            - generic [ref=f1e37]: 
+            - text: File Handling
+          - button " Media & Content" [ref=f1e38] [cursor=pointer]:
+            - generic [ref=f1e39]: 
+            - text: Media & Content
+          - button " Timing Events" [ref=f1e40] [cursor=pointer]:
+            - generic [ref=f1e41]: 
+            - text: Timing Events
+          - button " Advanced Elements" [ref=f1e42] [cursor=pointer]:
+            - generic [ref=f1e43]: 
+            - text: Advanced Elements
+          - button " E-Commerce App" [ref=f1e44] [cursor=pointer]:
+            - generic [ref=f1e45]: 
+            - text: E-Commerce App
+      - generic [ref=f1e46]:
+        - generic [ref=f1e47]:
+          - img "WishInfinite Logo" [ref=f1e48]
+          - generic [ref=f1e49]:
+            - generic [ref=f1e50]:
+              - heading "Subscribe to WishInfinite" [level=3] [ref=f1e51]
+              - paragraph [ref=f1e52]: Get regular updates on programming tutorials, tech tips, and coding challenges
+            - button " Subscribe" [ref=f1e53] [cursor=pointer]:
+              - generic [ref=f1e54]: 
+              - text: Subscribe
+        - generic [ref=f1e55]:
+          - generic [ref=f1e56]:
+            - heading "Forms" [level=2] [ref=f1e57]
+            - paragraph [ref=f1e58]: Practice your automation skills with these interactive components. Each element includes test attributes for easy targeting.
+            - navigation "breadcrumb" [ref=f1e59]:
+              - navigation "breadcrumb" [ref=f1e60]:
+                - list [ref=f1e61]:
+                  - listitem [ref=f1e62]:
+                    - link "Home" [ref=f1e63] [cursor=pointer]:
+                      - /url: /
+                  - listitem [ref=f1e64]:
+                    - text: /
+                    - link "Testing Playground" [ref=f1e65] [cursor=pointer]:
+                      - /url: "#playground"
+                  - listitem [ref=f1e66]: / Forms
+          - generic [ref=f1e69]:
+            - generic [ref=f1e70]:
+              - generic [ref=f1e71]:
+                - heading "Text Input" [level=3] [ref=f1e73]
+                - textbox "Text input field" [ref=f1e75]:
+                  - /placeholder: Enter text
+              - button " Show Testing Info" [ref=f1e77] [cursor=pointer]:
+                - generic [ref=f1e78]: 
+                - text: Show Testing Info
+            - generic [ref=f1e79]:
+              - generic [ref=f1e80]:
+                - heading "Textarea" [level=3] [ref=f1e82]
+                - textbox "Textarea field" [ref=f1e84]:
+                  - /placeholder: Enter long text
+              - button " Show Testing Info" [ref=f1e86] [cursor=pointer]:
+                - generic [ref=f1e87]: 
+                - text: Show Testing Info
+            - generic [ref=f1e88]:
+              - generic [ref=f1e89]:
+                - heading "Password Input" [level=3] [ref=f1e91]
+                - textbox "Password input field" [ref=f1e93]:
+                  - /placeholder: Enter password
+              - button " Show Testing Info" [ref=f1e95] [cursor=pointer]:
+                - generic [ref=f1e96]: 
+                - text: Show Testing Info
+            - generic [ref=f1e97]:
+              - generic [ref=f1e98]:
+                - heading "Email Input" [level=3] [ref=f1e100]
+                - textbox "Email input field" [ref=f1e102]:
+                  - /placeholder: Enter email
+              - button " Show Testing Info" [ref=f1e104] [cursor=pointer]:
+                - generic [ref=f1e105]: 
+                - text: Show Testing Info
+            - generic [ref=f1e106]:
+              - generic [ref=f1e107]:
+                - heading "Form Buttons" [level=3] [ref=f1e109]
+                - generic [ref=f1e110]:
+                  - button "Submit Form" [ref=f1e111] [cursor=pointer]
+                  - button "Reset Form" [ref=f1e112] [cursor=pointer]
+              - button " Show Testing Info" [ref=f1e114] [cursor=pointer]:
+                - generic [ref=f1e115]: 
+                - text: Show Testing Info
+  - contentinfo [ref=f1e116]:
+    - generic [ref=f1e118]:
+      - generic "Social media links" [ref=f1e119]:
+        - link "YouTube Channel" [ref=f1e120] [cursor=pointer]:
+          - /url: https://www.youtube.com/@WishInfinite
+          - generic [aria-hidden] [ref=f1e121]: 
+        - link "GitHub Profile" [ref=f1e123] [cursor=pointer]:
+          - /url: https://github.com/Wish-Infinite
+          - generic [aria-hidden] [ref=f1e124]: 
+        - link "LinkedIn Profile" [ref=f1e126] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/WishInfinite
+          - generic [aria-hidden] [ref=f1e127]: 
+      - paragraph [ref=f1e129]: © 2025 WishInfinite. All rights reserved.
