@@ -4,3 +4,5 @@
 #     Given I launch the SauceDemo application
 #     When I login with username "standard_user" and password "secret_sauce"
 #     Then I should see the products page
+#     Making this change to test the pull request functionality
+
